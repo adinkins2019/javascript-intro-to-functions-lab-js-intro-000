@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   sayHiString = ""
   if (string === (whisper(string))) {
     sayHiString = "I can't hear you!";
-    
+
   } else if (string === (shout(string))) {
     sayHiString = "YES INDEED!";
   } else if (string === "I love you, Grandma."){
